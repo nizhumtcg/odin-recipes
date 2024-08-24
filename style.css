@@ -1,0 +1,20 @@
+body{
+    background-color: #af9690;
+}
+h1{
+    color: #a8516e;
+    font-size: 200px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+li,a{
+    font-size: 50px;
+    text-align: center;
+    list-style: inside;
+    text-decoration: none;
+    color: #604b62 ;
+    background-color: #c0b1b2 ;
+    padding-block: 20px;
+}
+
